@@ -1,6 +1,6 @@
 require_relative "operation.rb"
 ﻿class Unary < Operation
-﻿   unary :opetator
+﻿attr_accesor :opetator
 def unary
 
 end
