@@ -1,7 +1,7 @@
 ﻿def Operation()
 operation:result
 unary:opetator
-binary:operator_1, :operator_2
+binary:operand_1, :operand_2
 
 end
 
