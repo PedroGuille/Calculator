@@ -1,5 +1,5 @@
 ﻿def Operation()
-operation :result
+attr_accesor :result
 
 
 end
