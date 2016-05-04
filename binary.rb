@@ -8,7 +8,6 @@ require_relative "operation.rb"
 ﻿       @operand_2=parametr_op
 ﻿     end
    
-    
   end
   
 end
