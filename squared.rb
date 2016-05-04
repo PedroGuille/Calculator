@@ -1,4 +1,4 @@
-require_relative "operation.rb"
+require_relative "unary.rb"
 ﻿class Squared < unary
 def Squered
 
