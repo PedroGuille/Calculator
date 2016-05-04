@@ -4,4 +4,3 @@ require_relative "operation.rb"
 def unary
 
 end
-end
